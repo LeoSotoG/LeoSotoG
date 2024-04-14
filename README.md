@@ -1,4 +1,6 @@
 ### Hi there 👋
+![imagen_presentacion](https://drive.google.com/file/d/1S3DdM0-Rh1VuX8RRMstWf4mYtufek-9q/view?usp=sharing)
+
 
 <!--
 **LeoSotoG/LeoSotoG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
