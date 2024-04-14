@@ -1,5 +1,4 @@
-### Hi there 👋
-![imagen_presentacion](https://drive.google.com/file/d/1S3DdM0-Rh1VuX8RRMstWf4mYtufek-9q/view?usp=sharing)
+![imagen_presentacion](https://github.com/LeoSotoG/LeoSotoG/blob/main/inicio1.png?raw=true)
 
 
 <!--
