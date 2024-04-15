@@ -25,7 +25,16 @@
   <code><img width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBRP7MEufHVW2ZZdj4jGRJG5WbQhEbSLEBg6veXrQ3yg&s"></code>
   <code><img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png"></code>
   <code><img width="50px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"></code>
-  <code><img width="50px" src="https://static-00.iconduck.com/assets.00/power-bi-icon-384x512-bujnuaon.png"
+  <code><img width="50px" src="https://static-00.iconduck.com/assets.00/power-bi-icon-384x512-bujnuaon.png"></code>
   <br />
+    
+## Connect with me 🤝
 
+<a href='https://www.linkedin.com/in/leonardo-soto-gallegos-42a377296'><img width='50px' align="center" src="https://img.freepik.com/fotos-premium/logotipo-cuadrado-linkedin-aislado-fondo-blanco_469489-1030.jpg"/></a>
+<a href="mailto:sotogallegosleonardo@gmail.com"><img width="50px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png"/></a>
+
+
+
+## Github stats 📊
+![Github Stats](https://github-readme-stats.vercel.app/api?username=LeoSotoG&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight)
 
